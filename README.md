@@ -1,12 +1,5 @@
 # Material Design Icon Font
-### Webfont for the full set of Material Design system icons.
-
-##Changelog
-
-#### 1.0
-
-* Initial Commit
-
+Webfont for the full set of Material Design system icons.
 
 ## Credits
 
